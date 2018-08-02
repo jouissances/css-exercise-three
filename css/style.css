@@ -30,11 +30,12 @@ nav {
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
-  background-color: #FAFAFA;
+  background-color: lightgrey;
+  border-bottom: 1px solid #999999;
 }
 
 .location:hover {
-  background-color: #999999;
+  background-color: #b4b2b4;
 }
 
 h1 {
